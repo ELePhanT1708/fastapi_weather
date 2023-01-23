@@ -18,7 +18,7 @@ And other reason to not to use scrapy:
 It is requirement to have Windows SDK as Microsoft C++ tool on thr machine and wothout this lib you can't install the lib scapy from pip.
 And it will be a problem when you will start to work on docker container and have to adjust this requirement within container.
 
-## To launch the systme
+## To launch the system
 1. Clone the repo 
 2. Launch docker desktop
 3. Open powershell or etc in project directory 'fastapi_weather'
