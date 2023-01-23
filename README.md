@@ -18,6 +18,11 @@ And other reason to not to use scrapy:
 It is requirement to have Windows SDK as Microsoft C++ tool on thr machine and wothout this lib you can't install the lib scapy from pip.
 And it will be a problem when you will start to work on docker container and have to adjust this requirement within container.
 
+## To launch the systme
+1. Clone the repo 
+2. Launch docker desktop
+3. In cloned directory from powershell or something similar write:
+    - 'docker-compose up --build'
 
 ## Results
 1. I adjusted  all services in docker-compose file and all development was done in container from the beginning of the project :
