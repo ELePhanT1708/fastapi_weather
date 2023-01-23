@@ -2,7 +2,7 @@ version: "3.11"
 
 services:
   fastapi:
-    image: crypto_fastapi
+    image: weather_fastapi
     build: .
     ports:
       - "8000:8000"

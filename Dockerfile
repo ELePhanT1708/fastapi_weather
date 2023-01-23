@@ -14,4 +14,4 @@ EXPOSE 8000
 
 WORKDIR /app/src
 
-CMD ["python", "crypto_api/__main__.py"]
+CMD ["python", "weather_api/__main__.py"]
