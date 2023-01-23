@@ -15,7 +15,7 @@ I agreee, it is not right to decline definition of task , but I did not really u
 
 And other reason to not to use scrapy: 
 
-It is requirement to have Windows SDK as Microsoft C++ tool on thr machine and wothout this lib you can't install the lib scapy from pip.
+It is requirement to have Windows SDK as Microsoft C++ tool on the machine and without this lib you can't install the lib scapy from pip.
 And it will be a problem when you will start to work on docker container and have to adjust this requirement within container.
 
 ## To launch the system
